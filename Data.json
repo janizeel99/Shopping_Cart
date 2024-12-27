@@ -1,0 +1,61 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Dior J'adore",
+        "description": "'J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+        "price": 89.99,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/2.png",
+        "quantity" : 1
+      },
+      {
+        "id": 2,
+        "title": "Chanel Coco Noir Eau De",
+        "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+        "price": 129.99,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/2.png",
+        "quantity" : 1
+      },
+      {
+        "id": 3,
+        "title": "Dolce Shine Eau de",
+        "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+        "price": 69.99,
+        "category": "smartphones",
+        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/2.png",
+        "quantity" : 1
+      },
+      {
+        "id": 4,
+        "title": "Gucci Bloom Eau de",
+        "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+        "price": 79.99,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/2.png",
+        "quantity" : 1
+      },
+      {
+        "id": 5,
+        "title": "Calvin Klein CK One",
+        "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+        "price": 49.99,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/2.png",
+        "quantity" : 1
+      },
+      {
+        "id": 6,
+        "title": "GIGABYTE M32U 32\" 144Hz 4K FreeSync Compatible Gaming Monitor, SS IPS, 3840 x 2160 Pixels Display, 1ms Response Time (MPRT), Display Port 1.4, 2X HDMI 2.1, 3X USB 3.0, USB Type C, Black",
+        "description": "Panel Size (diagonal) : 31.5” SS IPS, True Resolution : 3840 x 2160 (UHD)\r\nResponse Time : 1ms MPRT, Refresh Rate : 144Hz, 120Hz for Console Game*\r\nColor Saturation : 90% DCI-P3/ 123% sRGB\r\nBrightness : 350 cd/m2 (TYP), Contrast Ratio.",
+        "price": 899,
+        "thumbnail": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1694240444311-615QigQMWUL._SL1000_.jpg",
+        "quantity" : 1
+      },
+      {
+        "id": 7,
+        "title": "Samsung 27-Inch(68.46Cm) 1920 x 1080 Pixels Gaming, 240Hz, 1ms, IPS, Flat Monitor, FHD, HAS, HDR10, Nvidia G-Sync Compatible, Ultrawide Game View (LS27BG400EWXXL, Black)",
+        "description": "Display 27 Inches Samsung Monitor - 1,920 x 1,080 Resolution IPS Smart Monitor\r\nIncrediby vibrant and darker blacks with 16.7 Million colors.",
+        "price": 1499.99,
+        "thumbnail": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1694240213033-81z4qLkLBnL._SL1500_.jpg",
+        "quantity" : 1
+      }
+    ]
+  }
